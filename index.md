@@ -1,6 +1,6 @@
 # Privacy Policy for BoltVibe
 
-**Last updated:** November 11, 2026
+**Last updated:** November 12, 2026
 
 BoltVibe ("the app", "the game") is an Android puzzle game published by **Muhammad Taimoor** ("we", "us"). This policy explains what information the app uses and how. If you have questions, contact us at **muhamadtaimoor1122@gmail.com**.
 
@@ -22,7 +22,7 @@ We do not receive this information, and it is removed when you uninstall the app
 
 ## 3. Advertising (Google AdMob)
 
-BoltVibe displays banner and rewarded video ads using **Google AdMob**. To serve and measure ads, AdMob and Google may automatically collect and use:
+BoltVibe displays banner ads, full-screen (interstitial) ads and optional rewarded video ads using **Google AdMob**. To serve and measure ads, AdMob and Google may automatically collect and use:
 
 - Advertising ID and other device identifiers
 - IP address and approximate location derived from it
@@ -32,7 +32,7 @@ BoltVibe displays banner and rewarded video ads using **Google AdMob**. To serve
 
 This information is collected and processed by Google under [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites). We do not receive this data in a form that identifies you personally.
 
-You can control ad personalisation at any time in your Android settings (**Settings → Google → Ads**), where you can reset your advertising ID or opt out of personalised ads. Where required by law, we ask for your consent before showing personalised ads.
+You can control ad personalisation at any time in your Android settings (**Settings → Google → Ads**), where you can reset your advertising ID or opt out of personalised ads. Where required by law (for example in the European Economic Area and the United Kingdom), we ask for your consent before showing personalised ads. You can review or change your choice at any time in the app under **Settings → Privacy & ad choices**.
 
 ## 4. Permissions
 
