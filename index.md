@@ -1,18 +1,18 @@
-# Privacy Policy for BoltVibe
+# Privacy Policy for VibeLand: Puzzle Games
 
-**Last updated:** November 12, 2026
+**Last updated:** November 13, 2026
 
-BoltVibe ("the app", "the game") is an Android puzzle game published by **Muhammad Taimoor** ("we", "us"). This policy explains what information the app uses and how. If you have questions, contact us at **muhamadtaimoor1122@gmail.com**.
+VibeLand: Puzzle Games ("the app") is an Android app containing puzzle games, currently **BoltVibe** and **ArrowVibe** ("the games"). It is published by **Muhammad Taimoor** ("we", "us"). This policy explains what information the app uses and how. If you have questions, contact us at **muhamadtaimoor1122@gmail.com**.
 
 ## 1. Summary
 
 - We do not require an account, and we do not ask for your name, email address, phone number or location.
 - Your game progress stays on your device.
-- The game shows ads provided by Google AdMob. AdMob may collect certain device and usage information, described below.
+- The games show ads provided by Google AdMob. AdMob may collect certain device and usage information, described below.
 
 ## 2. Information stored on your device
 
-The app saves the following on your device only, so the game can remember where you are:
+The app saves the following on your device only, so each game can remember where you are. Each game keeps its own separate data:
 
 - Level progress, stars and unlocked levels
 - Coins, booster counts and daily reward status
@@ -22,7 +22,7 @@ We do not receive this information, and it is removed when you uninstall the app
 
 ## 3. Advertising (Google AdMob)
 
-BoltVibe displays banner ads, full-screen (interstitial) ads and optional rewarded video ads using **Google AdMob**. To serve and measure ads, AdMob and Google may automatically collect and use:
+The games display banner ads, full-screen (interstitial) ads and optional rewarded video ads using **Google AdMob**. To serve and measure ads, AdMob and Google may automatically collect and use:
 
 - Advertising ID and other device identifiers
 - IP address and approximate location derived from it
@@ -43,7 +43,7 @@ The app uses only the permissions it needs:
 
 ## 5. How we use information
 
-We use the information above only to run the game, show and measure ads, keep the game working properly, and comply with the law. We do not sell your personal information.
+We use the information above only to run the games, show and measure ads, keep the app working properly, and comply with the law. We do not sell your personal information.
 
 ## 6. Sharing
 
@@ -55,7 +55,7 @@ Game data stays on your device until you delete it by uninstalling the app or cl
 
 ## 8. Children's privacy
 
-BoltVibe is not directed at children under 13, and we do not knowingly collect personal information from them. If you believe a child has provided us with personal information, contact us and we will help resolve it.
+VibeLand is not directed at children under 13, and we do not knowingly collect personal information from them. If you believe a child has provided us with personal information, contact us and we will help resolve it.
 
 ## 9. Security
 
@@ -63,7 +63,7 @@ We keep our own data collection to a minimum. Data sent between the app and ad s
 
 ## 10. Changes to this policy
 
-We may update this policy from time to time. The "Last updated" date at the top shows the latest version. Continued use of the app after a change means you accept the updated policy.
+We may add more games to the app over time. If a new game or feature uses information in a way not described here, we will update this policy before it is released. We may also update this policy from time to time. The "Last updated" date at the top shows the latest version. Continued use of the app after a change means you accept the updated policy.
 
 ## 11. Contact
 
